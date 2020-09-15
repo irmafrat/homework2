@@ -1,7 +1,7 @@
 body{
     background-color: #000000;
     color:#ffffff;
-    font-family: lucida grande, sans-serif;
+    font-family: lucida sans-serif;
 }
 
 img{
@@ -27,7 +27,7 @@ p{
 }
 
 div{
-    height: 150px,auto;
+    height: 150px auto;
     padding: 25px;
 }
 
@@ -49,6 +49,11 @@ footer{
     text-align: left;
 }
 
+#green{
+    background-color: #008000;
+    text-align: left;
+}
+
 #yellow{
     background-color: #ffff00;
     text-align: right;
@@ -59,7 +64,4 @@ footer{
     text-shadow: 5px 5px 2px #c7e2c7 
 }
 
-#green{
-    background-color: #008000;
-    text-align: left;
-}
+
