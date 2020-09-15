@@ -39,35 +39,46 @@ footer{
     text-align: right;
     padding-bottom: 10px;
     padding-right: 10px;
-    padding-top: 0px;
-    padding-left: 0px;
-
 }
 
 #red
 {
     background-color: #ff0000;
     text-align: right;
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
 }
 
 #blue{
     background-color: #0000ff;
     text-align: left;
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
 }
 
 #green{
     background-color: #008000;
     text-align: left;
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
 }
 
 #yellow{
     background-color: #ffff00;
     text-align: right;
     color: #000000;
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
 }
 
 #yellow h2{
     text-shadow: 5px 5px 2px #c7e2c7; 
 }
-
-
