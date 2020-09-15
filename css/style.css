@@ -31,6 +31,13 @@ div{
     padding: 25px;
 }
 
+footer{
+    text-align: right;
+    padding-bottom: 10px;
+    padding-right: 10px;
+
+}
+
 #red
 {
     background-color: #ff0000;
@@ -55,11 +62,4 @@ div{
 #green{
     background-color: #008000;
     text-align: left;
-}
-
-footer{
-    text-align: right;
-    padding-bottom: 10px;
-    padding-right: 10px;
-
 }
