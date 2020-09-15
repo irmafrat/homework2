@@ -1,7 +1,7 @@
 body{
     background-color: #000000;
     color:#ffffff;
-    font-family: "lucida gande",lucida, sans-serif;
+    font-family: "lucida grande",lucida, sans-serif;
 }
 
 img{
@@ -27,7 +27,8 @@ p{
 }
 
 div{
-    height: 150px auto;
+    height: 150px;
+    min-height: auto;
     padding-top: 25px;
     padding-right: 25px;
     padding-bottom: 25px;
