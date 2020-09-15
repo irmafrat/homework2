@@ -1,7 +1,7 @@
 body{
     background-color: #000000;
     color:#ffffff;
-    font-family: lucida, sans-serif;
+    font-family: "Lucida Grande", sans-serif;
 }
 
 img{
@@ -29,10 +29,6 @@ p{
 div{
     height: 150px;
     min-height: auto;
-    padding-top: 25px;
-    padding-right: 25px;
-    padding-bottom: 25px;
-    padding-left: 25px;
 }
 
 footer{
@@ -45,38 +41,22 @@ footer{
 {
     background-color: #ff0000;
     text-align: right;
-    padding-top: 25px;
-    padding-right: 25px;
-    padding-bottom: 25px;
-    padding-left: 25px;
 }
 
 #blue{
     background-color: #0000ff;
     text-align: left;
-    padding-top: 25px;
-    padding-right: 25px;
-    padding-bottom: 25px;
-    padding-left: 25px;
 }
 
 #green{
     background-color: #008000;
     text-align: left;
-    padding-top: 25px;
-    padding-right: 25px;
-    padding-bottom: 25px;
-    padding-left: 25px;
 }
 
 #yellow{
     background-color: #ffff00;
     text-align: right;
     color: #000000;
-    padding-top: 25px;
-    padding-right: 25px;
-    padding-bottom: 25px;
-    padding-left: 25px;
 }
 
 #yellow h2{
